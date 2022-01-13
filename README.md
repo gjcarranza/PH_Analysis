@@ -25,7 +25,7 @@ Now that a table is developed including a list of employees and their titles, th
 
 ![summary of vacancy](https://user-images.githubusercontent.com/92961267/149264203-56fa5a66-d19f-4f81-87ad-06820e797b44.png)
 
-Before the company embarks on hiring new employees, it was advisible to mentor those who are eligible for a promotion who continue to work for the company. The list of potential mentees goes as follows:
+Before the company embarks on hiring new employees, it is advisible to mentor those who are eligible for a promotion who continue to work for the company. There are an eligible 1,549 mentees, enough to qualify for mentorhsip. The list of potential mentees goes as follows:
 
 ![Mentorship_eligibility_list](https://user-images.githubusercontent.com/92961267/149265024-af96f0ed-463f-46cb-a6bc-59cce9a1cba7.png)
 
@@ -33,4 +33,4 @@ Before the company embarks on hiring new employees, it was advisible to mentor t
 
 # Summary
 
-The only concern is finding additional replacemnets to those mentees who have taken the opportunity for a mentorship. It is advisible to give notice to the employees who eligible fore retirement. Those who accept a severance package and agree to mentor those who are already in the company must take priority prior to bringing in nerw hires. Doing so my eliminate some cost regarding training in some of the positions. 
+The only concern is finding additional replacemnets to those mentees who have taken the opportunity for a mentorship. It is advisible to give notice to the employees who eligible fore retirement. Those who accept a severance package and agree to mentor those who are already in the company must take priority before bringing in new hires. Doing so may eliminate some cost regarding training in some of the positions. Ultimately there may still be additional vacancies that require occupancy assuming most or all mentees accept the posiition of mentorship. 
